@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Contacts"
-permalink: /neurreps/
+permalink: /contacts/
 author_profile: true
 ---
 
