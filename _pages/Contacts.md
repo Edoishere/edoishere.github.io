@@ -1,4 +1,9 @@
-# Contacts
+---
+layout: archive
+title: "Contacts"
+permalink: /neurreps/
+author_profile: true
+---
 
 email: edoardocarroccetto@gmail.com
 
