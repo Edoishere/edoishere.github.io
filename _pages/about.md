@@ -16,4 +16,4 @@ My ideal holiday is to make a journey with my backpack and my friends. In the pa
 
 Next year maybe **Sweden!!**
 
-If you want to talk about Reinforcement Learning or to play chess don't esitate to contact me.
+If you want to talk about Reinforcement Learning or playing chess don't esitate to contact me.
